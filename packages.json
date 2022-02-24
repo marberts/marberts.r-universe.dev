@@ -1,0 +1,18 @@
+[
+    {
+        "package": "gpindex",
+        "url": "https://github.com/marberts/gpindex"
+    },
+    {
+        "package": "piar",
+        "url": "https://github.com/marberts/piar"
+    },
+    {
+        "package": "sps",
+        "url": "https://github.com/marberts/sps"
+    },
+    {
+        "package": "rsmatrix",
+        "url": "https://github.com/marberts/rsmatrix"
+    }
+]
